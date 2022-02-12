@@ -1,0 +1,6 @@
+omment can be placed...
+test.txt
+*.txt
+*.js
+build/
+!main.js
